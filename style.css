@@ -1,0 +1,22 @@
+body {
+  background-color: #bdbbb0;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #dddfdf;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  margin-right: 35%;
+  margin-left: 35%;
+  padding: 2rem;
+}
+
+.display {
+  margin-top: 2rem;
+  padding: 1rem;
+  background-color: #d2d7df;
+}
